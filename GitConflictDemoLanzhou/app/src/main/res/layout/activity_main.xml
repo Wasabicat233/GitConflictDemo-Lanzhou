@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button 1"
-        android:backgroundTint="#6750A4"
+        android:backgroundTint="#4CAF50"
         app:cornerRadius="16dp"/>
 
     <com.google.android.material.button.MaterialButton
@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button 2"
-        android:backgroundTint="#6750A4"
+        android:backgroundTint="#4CAF50"
         android:layout_marginTop="20dp"
         app:cornerRadius="16dp"/>
 
